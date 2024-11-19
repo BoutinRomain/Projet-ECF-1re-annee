@@ -1,0 +1,7 @@
+nom		prénom	email					MDP
+Dupont		Jean	jean.dupont@esportify.com		A1b2C3d4
+Martin		Claire	claire.martin@esportify.com		E5f6G7h8
+Lefevre		Thomas	thomas.lefevre@esportify.com		I9j0K1l2
+Dubois		Sophie	sophie.dubois@esportify.com		M3n4O5p6
+Moreau		Lucas	lucas.moreau@esportify.com		Q7r8S9t0
+Gauthier	Emma	emma.gauthier@esportify.com		U1v2W3x4
