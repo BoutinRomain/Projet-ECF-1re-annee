@@ -1,0 +1,34 @@
+.image {
+    min-width: 50%;
+    max-width: 100%;
+    border-radius: 0 0 15px 15px;
+    max-height: 50%;
+}
+
+.event-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 20px 20px 0 20px;
+    padding-bottom: 40px;
+}
+
+.event {
+    height: 300px;
+    margin: 10px 10px;
+    border-radius: 20px;
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+    background-color: green;
+    border: 5px solid #00B000;
+}
+
+.not-visible {
+    background-color: rgb(255, 28, 28) !important;
+    border: 5px solid #ff6e6e !important;
+}
+
+.hidden {
+    display: none;
+}
