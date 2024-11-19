@@ -1,0 +1,23 @@
+.bar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+    padding: 20px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+	justify-content: space-evenly;
+    width: 40%;
+    background-color: #00B000;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.clicker{
+    cursor: pointer;
+}

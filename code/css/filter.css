@@ -1,0 +1,51 @@
+
+#filters {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+    padding: 10px;
+    background-color: #226822;
+    border: 5px solid #00B000;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#filters label {
+    color: #fff;
+    margin-right: 5px;
+}
+
+#filters input[type="number"],
+#filters input[type="date"],
+#filters input[type="time"] {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    min-width: 130px;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease;
+}
+
+#filters input[type="number"]:focus,
+#filters input[type="date"]:focus,
+#filters input[type="time"]:focus {
+    border-color: #fff;
+}
+
+#filters button {
+    padding: 8px 15px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: background-color 0.3s, border-radius 0.3s, color 0.3s;
+}
+
+#filters button:hover {
+    color: #fff;
+    background-color: #00B000;
+    border-radius: 5px;
+}
