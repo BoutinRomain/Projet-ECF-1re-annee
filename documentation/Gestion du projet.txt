@@ -1,0 +1,4 @@
+Gestion du projet:
+
+Ma façon de gérer mes projet est simple, j'établie mes problèmatique,
+je prépare mon environnement et une fois cela fait je commence à coder en prennant les point un par un.
