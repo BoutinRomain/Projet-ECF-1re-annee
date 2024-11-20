@@ -5,3 +5,6 @@ Pour installer la base de données allez sur http://localhost/phpmyadmin et impo
 Et le coté employée en rentrant « localhost/Esportify/code/employees.php »
 les mots de passe se trouve dans le dossier password
 
+
+Le dossier admin contient le code pour le coté admin du site, pour l’ouvrir entrez « localhost/Esportify/code/admin/admin.php »
+si il est à part et qu’il n’y pas de mot de passe c’est que le coté admin est censé être sur une machine non connecté à internet étant connecté à la base de donnée en liaison directe, c’est pour maximiser la sécurité dans le cas où le site devrait être déployé
